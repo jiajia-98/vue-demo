@@ -1,0 +1,1 @@
+{"jsonOne":"https://geo.datav.aliyun.com/areas_v2/bound/530622.json","childJson":"https://geo.datav.aliyun.com/areas_v2/bound/530622_full.json"}
